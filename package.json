@@ -1,0 +1,33 @@
+{
+  "name": "joi-extension-string",
+  "version": "1.0.0",
+  "description": "String type that coerces numbers to strings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fozzylyon/joi-extension-string.git"
+  },
+  "author": "fozzylyon@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fozzylyon/joi-extension-string/issues"
+  },
+  "homepage": "https://github.com/fozzylyon/joi-extension-string#readme",
+  "main": "lib/index.js",
+  "keywords": [
+    "schema",
+    "validation",
+    "date",
+    "moment",
+    "joi",
+    "extension"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "peerDependencies": {
+    "joi": ">=10.x.x"
+  }
+}
