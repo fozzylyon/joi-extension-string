@@ -1,5 +1,5 @@
 {
-  "name": "joi-extension-string",
+  "name": "joi-extension-string-coerce",
   "version": "1.0.1",
   "description": "String type that coerces numbers to strings",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fozzylyon/joi-extension-string.git"
+    "url": "git+https://github.com/fozzylyon/joi-extension-string-coerce.git"
   },
   "author": "fozzylyon@gmail.com",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/fozzylyon/joi-extension-string/issues"
+    "url": "https://github.com/fozzylyon/joi-extension-string-coerce/issues"
   },
-  "homepage": "https://github.com/fozzylyon/joi-extension-string#readme",
+  "homepage": "https://github.com/fozzylyon/joi-extension-string-coerce#readme",
   "main": "lib/index.js",
   "keywords": [
     "schema",
