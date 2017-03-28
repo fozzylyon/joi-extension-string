@@ -1,6 +1,6 @@
 {
   "name": "joi-extension-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String type that coerces numbers to strings",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,7 @@
   "keywords": [
     "schema",
     "validation",
-    "date",
-    "moment",
+    "string",
     "joi",
     "extension"
   ],
